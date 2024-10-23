@@ -4,4 +4,4 @@ In this tutorial, I’ll walk you through creating a sleek and fully responsive 
 
 ## YouTube Video Link 
 
-[Custom Cursor Using HTML, CSS & JavaScript](https://youtu.be/XlgKOGS0vwM?si=QO935KkNJBzebV5Z)
+[Watch Video On Youtube](https://youtu.be/XlgKOGS0vwM?si=QO935KkNJBzebV5Z)
